@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:SessionParameter xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="78c26f22-e1ea-4739-8337-80e9febe5f8e">
+  <name>БуферОбмена</name>
+  <synonym>
+    <key>ru</key>
+    <value>Буфер обмена</value>
+  </synonym>
+  <type>
+    <types>FixedStructure</types>
+  </type>
+</mdclass:SessionParameter>
